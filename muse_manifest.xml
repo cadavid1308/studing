@@ -1,0 +1,288 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="studing.com" resolutions="1x" timestamp="1544223423324">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="instrucciones--musica.css" crc="4221332985" ref="instrucciones--musica"/>
+    <file name="nomq_instrucciones--musica.css" crc="4004764033" ref="instrucciones--musica"/>
+    <file name="pregunta--logica-2.css" crc="345898131" ref="pregunta--logica-2"/>
+    <file name="nomq_pregunta--logica-2.css" crc="4027316354" ref="pregunta--logica-2"/>
+    <file name="pregunta--ingles-1.css" crc="514032337" ref="pregunta--ingles-1"/>
+    <file name="nomq_pregunta--ingles-1.css" crc="443655832" ref="pregunta--ingles-1"/>
+    <file name="pregunta--musica-1.css" crc="369445982" ref="pregunta--musica-1"/>
+    <file name="nomq_pregunta--musica-1.css" crc="4103182961" ref="pregunta--musica-1"/>
+    <file name="pregunta--matematicas-1.css" crc="4218133536" ref="pregunta--matematicas-1"/>
+    <file name="nomq_pregunta--matematicas-1.css" crc="4167878450" ref="pregunta--matematicas-1"/>
+    <file name="pregunta--logica-5.css" crc="4123408246" ref="pregunta--logica-5"/>
+    <file name="nomq_pregunta--logica-5.css" crc="89867951" ref="pregunta--logica-5"/>
+    <file name="pregunta--matematica-2.css" crc="419414841" ref="pregunta--matematica-2"/>
+    <file name="nomq_pregunta--matematica-2.css" crc="4232998681" ref="pregunta--matematica-2"/>
+    <file name="pregunta--ingles-5.css" crc="362039740" ref="pregunta--ingles-5"/>
+    <file name="nomq_pregunta--ingles-5.css" crc="3898578687" ref="pregunta--ingles-5"/>
+    <file name="index.css" crc="4251750031" ref="index"/>
+    <file name="nomq_index.css" crc="4230330782" ref="index"/>
+    <file name="pregunta--matematicas-3.css" crc="490909288" ref="pregunta--matematicas-3"/>
+    <file name="nomq_pregunta--matematicas-3.css" crc="3939229325" ref="pregunta--matematicas-3"/>
+    <file name="pregunta--ingles-4.css" crc="3966879321" ref="pregunta--ingles-4"/>
+    <file name="nomq_pregunta--ingles-4.css" crc="4119223816" ref="pregunta--ingles-4"/>
+    <file name="pregunta--musica-4.css" crc="4284924058" ref="pregunta--musica-4"/>
+    <file name="nomq_pregunta--musica-4.css" crc="4040501695" ref="pregunta--musica-4"/>
+    <file name="pregunta--musica-2.css" crc="156347267" ref="pregunta--musica-2"/>
+    <file name="nomq_pregunta--musica-2.css" crc="469441039" ref="pregunta--musica-2"/>
+    <file name="instrucciones--logica.css" crc="113764524" ref="instrucciones--logica"/>
+    <file name="nomq_instrucciones--logica.css" crc="6187842" ref="instrucciones--logica"/>
+    <file name="pregunta--logica-1.css" crc="334097408" ref="pregunta--logica-1"/>
+    <file name="nomq_pregunta--logica-1.css" crc="291858658" ref="pregunta--logica-1"/>
+    <file name="pregunta--logica-4.css" crc="3857910131" ref="pregunta--logica-4"/>
+    <file name="nomq_pregunta--logica-4.css" crc="190615748" ref="pregunta--logica-4"/>
+    <file name="instrucciones--ingles.css" crc="3866699760" ref="instrucciones--ingles"/>
+    <file name="nomq_instrucciones--ingles.css" crc="4256773290" ref="instrucciones--ingles"/>
+    <file name="pregunta--musica-3.css" crc="4138515712" ref="pregunta--musica-3"/>
+    <file name="nomq_pregunta--musica-3.css" crc="297341680" ref="pregunta--musica-3"/>
+    <file name="pregunta--ingles-3.css" crc="210366152" ref="pregunta--ingles-3"/>
+    <file name="nomq_pregunta--ingles-3.css" crc="3895513615" ref="pregunta--ingles-3"/>
+    <file name="selecion-area.css" crc="79541397" ref="selecion-area"/>
+    <file name="nomq_selecion-area.css" crc="355370726" ref="selecion-area"/>
+    <file name="pregunta--ingles-2.css" crc="529764204" ref="pregunta--ingles-2"/>
+    <file name="nomq_pregunta--ingles-2.css" crc="4196774898" ref="pregunta--ingles-2"/>
+    <file name="pregunta--musica-5.css" crc="458182850" ref="pregunta--musica-5"/>
+    <file name="nomq_pregunta--musica-5.css" crc="4139316070" ref="pregunta--musica-5"/>
+    <file name="pregunta--matematicas-5.css" crc="4253538091" ref="pregunta--matematicas-5"/>
+    <file name="nomq_pregunta--matematicas-5.css" crc="437884571" ref="pregunta--matematicas-5"/>
+    <file name="pregunta--matematicas-4.css" crc="3931050802" ref="pregunta--matematicas-4"/>
+    <file name="nomq_pregunta--matematicas-4.css" crc="3924116941" ref="pregunta--matematicas-4"/>
+    <file name="pregunta--logica-3.css" crc="3820747758" ref="pregunta--logica-3"/>
+    <file name="nomq_pregunta--logica-3.css" crc="115267153" ref="pregunta--logica-3"/>
+    <file name="instrucciones--matematicas.css" crc="37326032" ref="instrucciones--matematicas"/>
+    <file name="nomq_instrucciones--matematicas.css" crc="4097532017" ref="instrucciones--matematicas"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo.png" crc="3898591706" seo="true" mt="1541195641000"/>
+    <file name="el-pentagrama.pdf" crc="4242665542" seo="true" mt="1544218843000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5"/>
+    <file name="museutils.js" crc="3803043152" ref="index:selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5"/>
+    <file name="museconfig.js" crc="380897831" ref="index:selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5"/>
+    <file name="require.js" crc="4157109226" ref="index:selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5"/>
+  </folder>
+  <folder name="images">
+    <file name="logo (2).png" crc="246158253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5"/>
+    <file name="u226_states.png" crc="4276958625" ref="index"/>
+    <file name="u226_states-r.png" crc="4276958625" ref="index"/>
+    <file name="logo (2)180x108.png" crc="3922040596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2190-4.png" crc="150009103" ref="selecion-area"/>
+    <file name="u2207-4.png" crc="4042024312" ref="selecion-area"/>
+    <file name="u910-4.png" crc="134787213" ref="selecion-area"/>
+    <file name="u914-4.png" crc="3820837603" ref="selecion-area"/>
+    <file name="u918-4.png" crc="3824879303" ref="selecion-area"/>
+    <file name="u922-4.png" crc="3913958378" ref="selecion-area"/>
+    <file name="logo (3).png" crc="350625306" seo="true" ref="selecion-area:instrucciones--musica:pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:instrucciones--matematicas:instrucciones--logica:instrucciones--ingles:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5">
+      <caption webpage="pregunta--matematica-2" alt=""/>
+      <caption webpage="pregunta--matematica-2" alt=""/>
+      <caption webpage="pregunta--musica-1" alt=""/>
+      <caption webpage="pregunta--musica-1" alt=""/>
+      <caption webpage="instrucciones--logica" alt=""/>
+      <caption webpage="instrucciones--logica" alt=""/>
+      <caption webpage="pregunta--matematicas-1" alt=""/>
+      <caption webpage="pregunta--matematicas-1" alt=""/>
+      <caption webpage="instrucciones--matematicas" alt=""/>
+      <caption webpage="instrucciones--matematicas" alt=""/>
+      <caption webpage="pregunta--musica-5" alt=""/>
+      <caption webpage="pregunta--musica-5" alt=""/>
+      <caption webpage="pregunta--ingles-3" alt=""/>
+      <caption webpage="pregunta--ingles-3" alt=""/>
+      <caption webpage="selecion-area" alt=""/>
+      <caption webpage="selecion-area" alt=""/>
+      <caption webpage="pregunta--ingles-4" alt=""/>
+      <caption webpage="pregunta--ingles-4" alt=""/>
+      <caption webpage="pregunta--logica-1" alt=""/>
+      <caption webpage="pregunta--logica-1" alt=""/>
+      <caption webpage="instrucciones--ingles" alt=""/>
+      <caption webpage="instrucciones--ingles" alt=""/>
+      <caption webpage="pregunta--matematicas-3" alt=""/>
+      <caption webpage="pregunta--matematicas-3" alt=""/>
+      <caption webpage="instrucciones--musica" alt=""/>
+      <caption webpage="instrucciones--musica" alt=""/>
+      <caption webpage="pregunta--logica-4" alt=""/>
+      <caption webpage="pregunta--logica-4" alt=""/>
+      <caption webpage="pregunta--musica-3" alt=""/>
+      <caption webpage="pregunta--musica-3" alt=""/>
+      <caption webpage="pregunta--matematicas-5" alt=""/>
+      <caption webpage="pregunta--matematicas-5" alt=""/>
+      <caption webpage="pregunta--matematicas-4" alt=""/>
+      <caption webpage="pregunta--matematicas-4" alt=""/>
+      <caption webpage="pregunta--logica-3" alt=""/>
+      <caption webpage="pregunta--logica-3" alt=""/>
+      <caption webpage="pregunta--ingles-5" alt=""/>
+      <caption webpage="pregunta--ingles-5" alt=""/>
+      <caption webpage="pregunta--musica-4" alt=""/>
+      <caption webpage="pregunta--musica-4" alt=""/>
+      <caption webpage="pregunta--musica-2" alt=""/>
+      <caption webpage="pregunta--musica-2" alt=""/>
+      <caption webpage="pregunta--ingles-2" alt=""/>
+      <caption webpage="pregunta--ingles-2" alt=""/>
+      <caption webpage="pregunta--logica-2" alt=""/>
+      <caption webpage="pregunta--logica-2" alt=""/>
+      <caption webpage="pregunta--logica-5" alt=""/>
+      <caption webpage="pregunta--logica-5" alt=""/>
+      <caption webpage="pregunta--ingles-1" alt=""/>
+      <caption webpage="pregunta--ingles-1" alt=""/>
+    </file>
+    <file name="u2190-42.png" crc="154475546" ref="selecion-area"/>
+    <file name="u2231-5.png" crc="3809753371" ref="instrucciones--musica"/>
+    <file name="u1370-4.png" crc="3876715971" ref="instrucciones--musica"/>
+    <file name="u2231-52.png" crc="481378957" ref="instrucciones--musica"/>
+    <file name="u896-4.png" crc="45376269" ref="pregunta--musica-1"/>
+    <file name="u2331-4.png" crc="98628601" ref="pregunta--musica-1"/>
+    <file name="siguiente.jpg" crc="3967692262" seo="true" ref="pregunta--musica-1:pregunta--musica-2:pregunta--musica-3:pregunta--musica-4:pregunta--musica-5:pregunta--matematicas-1:pregunta--matematica-2:pregunta--matematicas-3:pregunta--matematicas-4:pregunta--matematicas-5:pregunta--logica-1:pregunta--logica-2:pregunta--logica-3:pregunta--logica-4:pregunta--logica-5:pregunta--ingles-1:pregunta--ingles-2:pregunta--ingles-3:pregunta--ingles-4:pregunta--ingles-5">
+      <caption webpage="pregunta--matematica-2" alt=""/>
+      <caption webpage="pregunta--matematica-2" alt=""/>
+      <caption webpage="pregunta--musica-1" alt=""/>
+      <caption webpage="pregunta--musica-1" alt=""/>
+      <caption webpage="pregunta--logica-1" alt=""/>
+      <caption webpage="pregunta--logica-1" alt=""/>
+      <caption webpage="pregunta--matematicas-1" alt=""/>
+      <caption webpage="pregunta--matematicas-1" alt=""/>
+      <caption webpage="pregunta--ingles-4" alt=""/>
+      <caption webpage="pregunta--ingles-4" alt=""/>
+      <caption webpage="pregunta--musica-5" alt=""/>
+      <caption webpage="pregunta--musica-5" alt=""/>
+      <caption webpage="pregunta--ingles-2" alt=""/>
+      <caption webpage="pregunta--ingles-2" alt=""/>
+      <caption webpage="pregunta--ingles-1" alt=""/>
+      <caption webpage="pregunta--ingles-1" alt=""/>
+      <caption webpage="pregunta--matematicas-4" alt=""/>
+      <caption webpage="pregunta--matematicas-4" alt=""/>
+      <caption webpage="pregunta--matematicas-3" alt=""/>
+      <caption webpage="pregunta--matematicas-3" alt=""/>
+      <caption webpage="pregunta--logica-4" alt=""/>
+      <caption webpage="pregunta--logica-4" alt=""/>
+      <caption webpage="pregunta--musica-3" alt=""/>
+      <caption webpage="pregunta--musica-3" alt=""/>
+      <caption webpage="pregunta--matematicas-5" alt=""/>
+      <caption webpage="pregunta--matematicas-5" alt=""/>
+      <caption webpage="pregunta--logica-2" alt=""/>
+      <caption webpage="pregunta--logica-2" alt=""/>
+      <caption webpage="pregunta--logica-3" alt=""/>
+      <caption webpage="pregunta--logica-3" alt=""/>
+      <caption webpage="pregunta--ingles-5" alt=""/>
+      <caption webpage="pregunta--ingles-5" alt=""/>
+      <caption webpage="pregunta--musica-4" alt=""/>
+      <caption webpage="pregunta--musica-4" alt=""/>
+      <caption webpage="pregunta--musica-2" alt=""/>
+      <caption webpage="pregunta--musica-2" alt=""/>
+      <caption webpage="pregunta--ingles-3" alt=""/>
+      <caption webpage="pregunta--ingles-3" alt=""/>
+      <caption webpage="pregunta--logica-5" alt=""/>
+      <caption webpage="pregunta--logica-5" alt=""/>
+    </file>
+    <file name="u2331-42.png" crc="366684548" ref="pregunta--musica-1"/>
+    <file name="u2925-4.png" crc="45376269" ref="pregunta--musica-2"/>
+    <file name="u2924-4.png" crc="4249253837" ref="pregunta--musica-2"/>
+    <file name="u2924-42.png" crc="3806095221" ref="pregunta--musica-2"/>
+    <file name="u3024-4.png" crc="45376269" ref="pregunta--musica-3"/>
+    <file name="u3023-4.png" crc="4046519987" ref="pregunta--musica-3"/>
+    <file name="u3023-42.png" crc="94271494" ref="pregunta--musica-3"/>
+    <file name="u3173-4.png" crc="45376269" ref="pregunta--musica-4"/>
+    <file name="u3172-4.png" crc="67840510" ref="pregunta--musica-4"/>
+    <file name="u3172-42.png" crc="4173015337" ref="pregunta--musica-4"/>
+    <file name="u3307-4.png" crc="45376269" ref="pregunta--musica-5"/>
+    <file name="u3306-4.png" crc="4256336665" ref="pregunta--musica-5"/>
+    <file name="u3306-42.png" crc="85326338" ref="pregunta--musica-5"/>
+    <file name="u3367-5.png" crc="335358643" ref="instrucciones--matematicas"/>
+    <file name="u3395-4.png" crc="3876715971" ref="instrucciones--matematicas"/>
+    <file name="u3367-52.png" crc="4030181789" ref="instrucciones--matematicas"/>
+    <file name="u3435-5.png" crc="3954484354" ref="instrucciones--logica"/>
+    <file name="u3432-4.png" crc="3876715971" ref="instrucciones--logica"/>
+    <file name="u3435-52.png" crc="247403241" ref="instrucciones--logica"/>
+    <file name="u3520-5.png" crc="3881366645" ref="instrucciones--ingles"/>
+    <file name="u3508-4.png" crc="3876715971" ref="instrucciones--ingles"/>
+    <file name="u3520-52.png" crc="4066786488" ref="instrucciones--ingles"/>
+    <file name="u3547-4.png" crc="4026719982" ref="pregunta--matematicas-1"/>
+    <file name="u3546-4.png" crc="98628601" ref="pregunta--matematicas-1"/>
+    <file name="u3546-42.png" crc="366684548" ref="pregunta--matematicas-1"/>
+    <file name="u3667-4.png" crc="4026719982" ref="pregunta--matematica-2"/>
+    <file name="u3666-4.png" crc="4249253837" ref="pregunta--matematica-2"/>
+    <file name="u3666-42.png" crc="3806095221" ref="pregunta--matematica-2"/>
+    <file name="u3816-4.png" crc="46244799" ref="pregunta--matematicas-3"/>
+    <file name="u3815-4.png" crc="4046519987" ref="pregunta--matematicas-3"/>
+    <file name="u3815-42.png" crc="94271494" ref="pregunta--matematicas-3"/>
+    <file name="u3950-4.png" crc="4026719982" ref="pregunta--matematicas-4"/>
+    <file name="u3949-4.png" crc="67840510" ref="pregunta--matematicas-4"/>
+    <file name="u3949-42.png" crc="4173015337" ref="pregunta--matematicas-4"/>
+    <file name="u4016-4.png" crc="173496170" ref="pregunta--matematicas-5"/>
+    <file name="u4015-4.png" crc="4256336665" ref="pregunta--matematicas-5"/>
+    <file name="u4015-42.png" crc="85326338" ref="pregunta--matematicas-5"/>
+    <file name="u4063-4.png" crc="3936361075" ref="pregunta--logica-1"/>
+    <file name="u4062-4.png" crc="98628601" ref="pregunta--logica-1"/>
+    <file name="u4062-42.png" crc="366684548" ref="pregunta--logica-1"/>
+    <file name="u4162-5.png" crc="3936361075" ref="pregunta--logica-2"/>
+    <file name="u4161-4.png" crc="4249253837" ref="pregunta--logica-2"/>
+    <file name="u4162-52.png" crc="3774879971" ref="pregunta--logica-2"/>
+    <file name="u4161-42.png" crc="3806095221" ref="pregunta--logica-2"/>
+    <file name="u4311-5.png" crc="3936361075" ref="pregunta--logica-3"/>
+    <file name="u4310-4.png" crc="4046519987" ref="pregunta--logica-3"/>
+    <file name="u4311-52.png" crc="3774879971" ref="pregunta--logica-3"/>
+    <file name="u4310-42.png" crc="94271494" ref="pregunta--logica-3"/>
+    <file name="u4445-4.png" crc="3936361075" ref="pregunta--logica-4"/>
+    <file name="u4444-4.png" crc="67840510" ref="pregunta--logica-4"/>
+    <file name="u4445-42.png" crc="3774879971" ref="pregunta--logica-4"/>
+    <file name="u4444-42.png" crc="4173015337" ref="pregunta--logica-4"/>
+    <file name="u4511-5.png" crc="3936361075" ref="pregunta--logica-5"/>
+    <file name="u4510-4.png" crc="4256336665" ref="pregunta--logica-5"/>
+    <file name="u4511-52.png" crc="3774879971" ref="pregunta--logica-5"/>
+    <file name="u4510-42.png" crc="85326338" ref="pregunta--logica-5"/>
+    <file name="u4557-4.png" crc="4159903152" ref="pregunta--ingles-1"/>
+    <file name="u4558-4.png" crc="98628601" ref="pregunta--ingles-1"/>
+    <file name="u4558-42.png" crc="366684548" ref="pregunta--ingles-1"/>
+    <file name="u4722-5.png" crc="4159903152" ref="pregunta--ingles-2"/>
+    <file name="u4723-4.png" crc="4249253837" ref="pregunta--ingles-2"/>
+    <file name="u4722-52.png" crc="3789212473" ref="pregunta--ingles-2"/>
+    <file name="u4723-42.png" crc="3806095221" ref="pregunta--ingles-2"/>
+    <file name="u4752-5.png" crc="4159903152" ref="pregunta--ingles-3"/>
+    <file name="u4754-4.png" crc="4046519987" ref="pregunta--ingles-3"/>
+    <file name="u4752-52.png" crc="3789212473" ref="pregunta--ingles-3"/>
+    <file name="u4754-42.png" crc="94271494" ref="pregunta--ingles-3"/>
+    <file name="u4885-4.png" crc="4159903152" ref="pregunta--ingles-4"/>
+    <file name="u4883-4.png" crc="67840510" ref="pregunta--ingles-4"/>
+    <file name="u4885-42.png" crc="3789212473" ref="pregunta--ingles-4"/>
+    <file name="u4883-42.png" crc="4173015337" ref="pregunta--ingles-4"/>
+    <file name="u4950-5.png" crc="4159903152" ref="pregunta--ingles-5"/>
+    <file name="u4951-4.png" crc="4256336665" ref="pregunta--ingles-5"/>
+    <file name="u4950-52.png" crc="3789212473" ref="pregunta--ingles-5"/>
+    <file name="u4951-42.png" crc="85326338" ref="pregunta--ingles-5"/>
+  </folder>
+  <file name="index.html" crc="230850921" seo="true" mt="1544223272894" redirect="true"/>
+  <file name="selecion-area.html" crc="29134072" seo="true" mt="1544222235578" redirect="true"/>
+  <file name="instrucciones--musica.html" crc="246214393" seo="true" mt="1544223412230" redirect="true"/>
+  <file name="pregunta--musica-1.html" crc="238467460" seo="true" mt="1544222433591" redirect="true"/>
+  <file name="pregunta--musica-2.html" crc="376115417" seo="true" mt="1544222473210" redirect="true"/>
+  <file name="pregunta--musica-3.html" crc="95940399" seo="true" mt="1544222519827" redirect="true"/>
+  <file name="pregunta--musica-4.html" crc="352417069" seo="true" mt="1544222553739" redirect="true"/>
+  <file name="pregunta--musica-5.html" crc="202704058" seo="true" mt="1544221943679" redirect="true"/>
+  <file name="instrucciones--matematicas.html" crc="38769394" seo="true" mt="1544222308106" redirect="true"/>
+  <file name="instrucciones--logica.html" crc="377182067" seo="true" mt="1544222331757" redirect="true"/>
+  <file name="instrucciones--ingles.html" crc="3925216419" seo="true" mt="1544222389954" redirect="true"/>
+  <file name="pregunta--matematicas-1.html" crc="129308146" seo="true" mt="1544222604404" redirect="true"/>
+  <file name="pregunta--matematica-2.html" crc="322031028" seo="true" mt="1544222645587" redirect="true"/>
+  <file name="pregunta--matematicas-3.html" crc="3870597753" seo="true" mt="1544222684002" redirect="true"/>
+  <file name="pregunta--matematicas-4.html" crc="3884944041" seo="true" mt="1544222727693" redirect="true"/>
+  <file name="pregunta--matematicas-5.html" crc="3767748354" seo="true" mt="1544221980488" redirect="true"/>
+  <file name="pregunta--logica-1.html" crc="118629340" seo="true" mt="1544222769884" redirect="true"/>
+  <file name="pregunta--logica-2.html" crc="4164220952" seo="true" mt="1544222796144" redirect="true"/>
+  <file name="pregunta--logica-3.html" crc="284486792" seo="true" mt="1544222823642" redirect="true"/>
+  <file name="pregunta--logica-4.html" crc="376587840" seo="true" mt="1544222844085" redirect="true"/>
+  <file name="pregunta--logica-5.html" crc="466329018" seo="true" mt="1544222025399" redirect="true"/>
+  <file name="pregunta--ingles-1.html" crc="153324464" seo="true" mt="1544222870945" redirect="true"/>
+  <file name="pregunta--ingles-2.html" crc="139400932" seo="true" mt="1544222893209" redirect="true"/>
+  <file name="pregunta--ingles-3.html" crc="3796377890" seo="true" mt="1544222913435" redirect="true"/>
+  <file name="pregunta--ingles-4.html" crc="409881338" seo="true" mt="1544221895063" redirect="true"/>
+  <file name="pregunta--ingles-5.html" crc="457940832" seo="true" mt="1544222959138" redirect="true"/>
+</manifest>
